@@ -1,0 +1,15 @@
+{
+  "appId": "kz.local.bar",
+  "appName": "Бар на вечер",
+  "webDir": "www",
+  "backgroundColor": "#111113",
+  "android": {
+    "backgroundColor": "#111113"
+  },
+  "plugins": {
+    "SystemBars": {
+      "style": "DARK",
+      "insetsHandling": "css"
+    }
+  }
+}

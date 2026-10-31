@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="barBackground">#111113</color>
+    <color name="colorPrimary">#111113</color>
+    <color name="colorPrimaryDark">#111113</color>
+    <color name="colorAccent">#F0963C</color>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Бар на вечер</string>
+    <string name="title_activity_main">Бар на вечер</string>
+    <string name="package_name">kz.local.bar</string>
+    <string name="custom_url_scheme">kz.local.bar</string>
+</resources>
